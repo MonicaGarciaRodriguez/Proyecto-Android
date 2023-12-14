@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="semipresencial">Semipresencial</string>
+    <string name="presencial">Presencial</string>
+    <string name="nombre">Nombre:</string>
+    <string name="personName">Introduzca el nombre del alumno</string>
+    <string name="dam">Dam</string>
+    <string name="daw">Daw</string>
+    <string name="asir">Asir</string>
+    <string name="obtener_datos">Obtener Datos</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="leer_datos">Leer Datos</string>
+    <string name="obtener_edad_y_grupo">Obtener edad y grupo</string>
+    <string name="ver_hist_rico">Ver Histórico</string>
+    <string name="guardar_en_hist_rico">Guardar en Histórico</string>
+    <string name="fecha_nac">Fecha Nacimiento:__</string>
+    <string name="modalidad">Modalidad: __</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="fecha_text">Fecha Nacimiento\n</string>
+    <string name="autor_text">Nombre</string>
+    <string name="nombre_text">Nombre\n</string>
+    <string name="modalidad_text">Modalidad\n</string>
+    <string name="ciclo_text">Ciclo:</string>
+    <string name="no_existe_fichero">No existe fichero</string>
+    <string name="error_textos">Error texto\n</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_fecha">Fecha</string>
+    <string name="txt_grupo">Grupo</string>
+    <string name="txt_aula">Modalidad</string>
+    <string name="txt_ciclo">Ciclo</string>
+    <string name="txt_modalidad">Modalidad</string>
+    <string name="aula_text">Aula</string>
+    <string name="grupo_text">Grupo</string>
+    <string name="option_delete">Eliminar</string>
+    <string name="opcion_compartir">Compartir</string>
+    <string name="opcion_delete">Eliminar</string>
+    <string name="option_detalles">Ver detalles</string>
+    <string name="option_editar">Editar</string>
+    <string name="cancelarItem">Cancelar</string>
+    <string name="aceptarItem">Aceptar</string>
+    <string name="dawItem">Daw</string>
+    <string name="asirItem">Asir</string>
+    <string name="damItem">Dam</string>
+    <string name="presencialItem">Presencial</string>
+    <string name="semipresencialItem">Semipresencial</string>
+    <string name="fecha_nacimientoItem">Item</string>
+    <string name="nombreItem">Nombre</string>
+    <string name="personNameItem">Nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="txt_id">Id</string>
+    <string name="ciclo">Ciclo: __</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

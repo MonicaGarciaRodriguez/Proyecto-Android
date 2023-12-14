@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983056924365",
+    "project_id": "my-proyecto-3f2cb",
+    "storage_bucket": "my-proyecto-3f2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983056924365:android:ee062c91f3f25a1443b384",
+        "android_client_info": {
+          "package_name": "com.mogaro.myproyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCsuZVrsM3GES10H3zKIu7sB1JPYkbBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
